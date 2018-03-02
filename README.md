@@ -26,5 +26,4 @@ There will be some output, hopefully including `Copy/paste this URL into your br
 
 Do that, and then navigate to the [notebook](http://localhost:8888/notebooks/work/concat_excel.ipynb).
 
-More about [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/).
-
+[Working with jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html).
